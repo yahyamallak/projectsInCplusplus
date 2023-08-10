@@ -3,8 +3,10 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     ".htaccess": "ini",
+    "*.cpp": "cpp",
     "iostream": "cpp",
     "xstring": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "vector": "cpp"
   }
 }
